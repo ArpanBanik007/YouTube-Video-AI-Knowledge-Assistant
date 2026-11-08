@@ -1,8 +1,27 @@
+# Environment
+venv/
+.venv/
 **/venv/
 **/.venv/
-**/__pycache__/
-*.pyc
+
+# Secrets
 .env
+**/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+qdrant_db/
 **/qdrant_db/
+
+# Downloaded audio
+audio/
 **/audio/
+
+# Build files
+node_modules/
+dist/
 *.part
+.DS_Store
