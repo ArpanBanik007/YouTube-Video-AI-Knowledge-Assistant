@@ -187,6 +187,4 @@ If you change the playlist language or embedding model, re-tune `STRONG_SCORE` u
 
 Python, yt-dlp, faster-whisper, sentence-transformers, Qdrant, Groq API, Gemini API, FastAPI, React (Vite)
 
-## Screenshot
 
-![App screenshot](docs/screenshot.png)
